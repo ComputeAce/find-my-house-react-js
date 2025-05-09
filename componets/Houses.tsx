@@ -1,3 +1,7 @@
+import type { NextPage } from 'next';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
+
 const houses = [
   {
     title: "Website Review Check",
@@ -7,8 +11,7 @@ const houses = [
       'The place is close to Barceloneta Beach and bus stop just 2 min by walk and near to "Naviglio" where you can enjoy the main nightlife in Barcelona.',
     user: {
       name: "Alice Johnson",
-      profile:
-        "https://randomuser.me/api/portraits/women/44.jpg",
+      profile: "https://randomuser.me/api/portraits/women/44.jpg",
       date: "May 5, 2025",
     },
   },
@@ -20,8 +23,7 @@ const houses = [
       "Located in the heart of Tokyo, this modern studio offers quick access to the subway and shopping districts.",
     user: {
       name: "Kenji Tanaka",
-      profile:
-        "https://randomuser.me/api/portraits/men/45.jpg",
+      profile: "https://randomuser.me/api/portraits/men/45.jpg",
       date: "May 6, 2025",
     },
   },
@@ -33,8 +35,7 @@ const houses = [
       "A peaceful retreat in the hills of Tuscany, surrounded by vineyards and olive trees.",
     user: {
       name: "Maria Rossi",
-      profile:
-        "https://randomuser.me/api/portraits/women/65.jpg",
+      profile: "https://randomuser.me/api/portraits/women/65.jpg",
       date: "May 4, 2025",
     },
   },
@@ -46,8 +47,7 @@ const houses = [
       "Wake up to the sound of waves in this beautiful beachfront villa in Bali.",
     user: {
       name: "Adi Nugroho",
-      profile:
-        "https://randomuser.me/api/portraits/men/32.jpg",
+      profile: "https://randomuser.me/api/portraits/men/32.jpg",
       date: "May 2, 2025",
     },
   },
@@ -59,8 +59,7 @@ const houses = [
       "Experience the best of Dubai with this high-rise luxury condo featuring skyline views.",
     user: {
       name: "Fatima Al Zahra",
-      profile:
-        "https://randomuser.me/api/portraits/women/22.jpg",
+      profile: "https://randomuser.me/api/portraits/women/22.jpg",
       date: "May 1, 2025",
     },
   },
@@ -102,12 +101,9 @@ const HousePost = () => {
               </div>
             </div>
             <div className="px-4 pb-4 pt-0 mt-2">
-              <button
-                className="rounded-md bg-slate-800 py-2 px-4 text-sm text-white shadow-md hover:bg-slate-700 focus:bg-slate-700"
-                type="button"
-              >
-                Read more
-              </button>
+              <Link href="/post-view">About Us</Link>
+
+
             </div>
           </div>
         ))}
