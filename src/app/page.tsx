@@ -1,9 +1,9 @@
 import Image from "next/image";
-import Navbar from "../../componets/Navbar";
-import Hero from "../../componets/Hero";
-import Houses from "../../componets/Houses";
-import SidebarLeft from "../../componets/SidebarLeft";
-import SidebarRight from "../../componets/SidebarRigh";
+import Navbar from "../../components/Navbar";
+import Hero from "../../components/Hero";
+import Houses from "../../components/Houses";
+import SidebarLeft from "../../components/SidebarLeft";
+import SidebarRight from "../../components/SidebarRigh";
 
 export default function Home() {
   return (
