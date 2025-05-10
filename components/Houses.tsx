@@ -101,7 +101,11 @@ const HousePost = () => {
               </div>
             </div>
             <div className="px-4 pb-4 pt-0 mt-2">
-              <Link href="/post-view">About Us</Link>
+              <div className="px-4 pb-4 pt-0 mt-2">
+              <Link href="/dashboard">Dashboard</Link>
+ 
+            </div>
+
 
 
             </div>
