@@ -102,7 +102,7 @@ const HousePost = () => {
             </div>
             <div className="px-4 pb-4 pt-0 mt-2">
               <div className="px-4 pb-4 pt-0 mt-2">
-              <Link href="/dashboard">Dashboard</Link>
+              <Link href="/post-view">Dashboard</Link>
  
             </div>
 
