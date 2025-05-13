@@ -19,10 +19,6 @@ yarn dev
 pnpm dev
 # or
 bun dev
-
-
-## Getting Started
-
 ![Screenshot 2025-05-13 200235](https://github.com/user-attachments/assets/e7db8e60-dd37-4002-9e31-d7af0a06c119)
 ![Screenshot 2025-05-13 200249](https://github.com/user-attachments/assets/a395bbeb-6493-4adb-b800-c46fdf0a6e10)
 
@@ -36,6 +32,10 @@ f70ac5ad)
 ![Screenshot 2025-05-11 095251](https://github.com/user-attachments/assets/4a4e48d3-b754-473e-b1f0-e74eef3926c9)
 
 🛠 Technologi![Screenshot 2025-05-11 095321](https://github.com/user-attachments/assets/dc0ff34b-8d58-4d4b-878c-f080abaf29f2)
+
+## Getting Started
+
+
 es Used
 Next.js
 
