@@ -1,8 +1,31 @@
+# Find My House 🇿🇲
+
+**Find My House** is a modern **React + Next.js (with TypeScript)** project designed to make house hunting in **Zambia** simple and transparent.  
+Many agents in Zambia exploit house seekers by overpricing or hiding opportunities. This app empowers users by giving them direct access to listings, removing the middlemen.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+---
+
+## 🚀 Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+
 
 ## Getting Started
 
+![Screenshot 2025-05-13 200235](https://github.com/user-attachments/assets/91118ea3-b403-4620-95f1-4b31d30b3b4e)
 
+![Screenshot 2025-05-13 200249](https://github.com/user-attachments/assets/b8fe5ed4-51a1-4c38-8595-c713a251a61a)
 
 ![Screenshot 2025-05-11 095251](https://github.com/user-attachments/assets/b1341b84-48ae-476e-b5c8-58f91d9ba50e)
 
