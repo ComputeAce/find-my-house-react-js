@@ -23,9 +23,8 @@ bun dev
 
 ## Getting Started
 
-![Screenshot 2025-05-13 200235](https://github.com/user-attachments/assets/91118ea3-b403-4620-95f1-4b31d30b3b4e)
 
-![Screenshot 2025-05-13 200249](https://github.com/user-attachments/assets/b8fe5ed4-51a1-4c38-8595-c713a251a61a)
+
 
 ![Screenshot 2025-05-11 095251](https://github.com/user-attachments/assets/b1341b84-48ae-476e-b5c8-58f91d9ba50e)
 
