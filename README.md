@@ -23,7 +23,8 @@ bun dev
 
 ## Getting Started
 
-![Screenshot 2025-05-13 200249](https://github.com/user-attachments/assets/b4552c9a-1a91-4304-99b8-a7af416d6aa9)
+![Screenshot 2025-05-13 200249](https://github.com/user-attachments/assets/b214c6c1-59e9-42d2-8c9a-0507026eb6d8)
+
 
 First, run the development server:
 
